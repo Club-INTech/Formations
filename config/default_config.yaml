@@ -1,0 +1,9 @@
+name: "Patate"
+NetworkModule:
+  ip: "127.0.0.1"
+  port: 6789
+MoveModule:
+  x: 0
+  y: 0
+ImageModule:
+  bits: 2
